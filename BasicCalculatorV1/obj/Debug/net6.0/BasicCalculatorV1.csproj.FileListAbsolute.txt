@@ -1,0 +1,15 @@
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\BasicCalculatorv1\BasicCalculatorV1\BasicCalculatorV1\bin\Debug\net6.0\BasicCalculatorV1.exe
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\BasicCalculatorv1\BasicCalculatorV1\BasicCalculatorV1\bin\Debug\net6.0\BasicCalculatorV1.deps.json
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\BasicCalculatorv1\BasicCalculatorV1\BasicCalculatorV1\bin\Debug\net6.0\BasicCalculatorV1.runtimeconfig.json
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\BasicCalculatorv1\BasicCalculatorV1\BasicCalculatorV1\bin\Debug\net6.0\BasicCalculatorV1.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\BasicCalculatorv1\BasicCalculatorV1\BasicCalculatorV1\bin\Debug\net6.0\ref\BasicCalculatorV1.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\BasicCalculatorv1\BasicCalculatorV1\BasicCalculatorV1\bin\Debug\net6.0\BasicCalculatorV1.pdb
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\BasicCalculatorv1\BasicCalculatorV1\BasicCalculatorV1\obj\Debug\net6.0\BasicCalculatorV1.csproj.AssemblyReference.cache
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\BasicCalculatorv1\BasicCalculatorV1\BasicCalculatorV1\obj\Debug\net6.0\BasicCalculatorV1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\BasicCalculatorv1\BasicCalculatorV1\BasicCalculatorV1\obj\Debug\net6.0\BasicCalculatorV1.AssemblyInfoInputs.cache
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\BasicCalculatorv1\BasicCalculatorV1\BasicCalculatorV1\obj\Debug\net6.0\BasicCalculatorV1.AssemblyInfo.cs
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\BasicCalculatorv1\BasicCalculatorV1\BasicCalculatorV1\obj\Debug\net6.0\BasicCalculatorV1.csproj.CoreCompileInputs.cache
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\BasicCalculatorv1\BasicCalculatorV1\BasicCalculatorV1\obj\Debug\net6.0\BasicCalculatorV1.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\BasicCalculatorv1\BasicCalculatorV1\BasicCalculatorV1\obj\Debug\net6.0\ref\BasicCalculatorV1.dll
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\BasicCalculatorv1\BasicCalculatorV1\BasicCalculatorV1\obj\Debug\net6.0\BasicCalculatorV1.pdb
+C:\Users\Ebo The Grateful\Desktop\Repos\EAC\BasicCalculatorv1\BasicCalculatorV1\BasicCalculatorV1\obj\Debug\net6.0\BasicCalculatorV1.genruntimeconfig.cache
